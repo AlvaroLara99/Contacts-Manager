@@ -1,0 +1,19 @@
+E:\C# Projects\Contact Manager\Contact Manager\bin\Debug\net5.0-windows\Contact Manager.exe
+E:\C# Projects\Contact Manager\Contact Manager\bin\Debug\net5.0-windows\Contact Manager.deps.json
+E:\C# Projects\Contact Manager\Contact Manager\bin\Debug\net5.0-windows\Contact Manager.runtimeconfig.json
+E:\C# Projects\Contact Manager\Contact Manager\bin\Debug\net5.0-windows\Contact Manager.runtimeconfig.dev.json
+E:\C# Projects\Contact Manager\Contact Manager\bin\Debug\net5.0-windows\Contact Manager.dll
+E:\C# Projects\Contact Manager\Contact Manager\bin\Debug\net5.0-windows\ref\Contact Manager.dll
+E:\C# Projects\Contact Manager\Contact Manager\bin\Debug\net5.0-windows\Contact Manager.pdb
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact Manager.csproj.AssemblyReference.cache
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact_Manager.frmLogin.resources
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact Manager.csproj.GenerateResource.cache
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact Manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact Manager.AssemblyInfoInputs.cache
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact Manager.AssemblyInfo.cs
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact Manager.csproj.CoreCompileInputs.cache
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact Manager.dll
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\ref\Contact Manager.dll
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact Manager.pdb
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact Manager.genruntimeconfig.cache
+E:\C# Projects\Contact Manager\Contact Manager\obj\Debug\net5.0-windows\Contact_Manager.frmRegister.resources
